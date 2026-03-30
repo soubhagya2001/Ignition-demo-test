@@ -27,7 +27,7 @@
             },
             "onChange": {
               "enabled": null,
-              "script": "\treturn \"kuch bi\""
+              "script": "\treturn \"kuch toh baat h\""
             }
           }
         },
