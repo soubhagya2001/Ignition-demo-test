@@ -1,0 +1,15 @@
+{
+  "pages": {
+    "/": {
+      "title": "",
+      "viewPath": ""
+    },
+    "/tets": {
+      "title": "",
+      "viewPath": "View"
+    }
+  },
+  "sharedDocks": {
+    "cornerPriority": "top-bottom"
+  }
+}

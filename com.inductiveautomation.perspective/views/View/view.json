@@ -1,0 +1,42 @@
+{
+  "custom": {},
+  "params": {},
+  "props": {},
+  "root": {
+    "children": [
+      {
+        "custom": {
+          "key": "value"
+        },
+        "meta": {
+          "name": "Label"
+        },
+        "position": {
+          "height": 32,
+          "width": 50,
+          "x": 500,
+          "y": 255
+        },
+        "propConfig": {
+          "props.text": {
+            "binding": {
+              "config": {
+                "path": "this.custom.key"
+              },
+              "type": "property"
+            },
+            "onChange": {
+              "enabled": null,
+              "script": "\treturn \"kuch bi\""
+            }
+          }
+        },
+        "type": "ia.display.label"
+      }
+    ],
+    "meta": {
+      "name": "root"
+    },
+    "type": "ia.container.coord"
+  }
+}
