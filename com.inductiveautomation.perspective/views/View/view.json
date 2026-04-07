@@ -27,7 +27,7 @@
             },
             "onChange": {
               "enabled": null,
-              "script": "\treturn \"kuch toh baat h na, maza ma\""
+              "script": "\treturn \"kuch toh baat h na, aamize tumhar\""
             }
           }
         },
