@@ -7,6 +7,9 @@
     "/tets": {
       "title": "",
       "viewPath": "View"
+    },
+    "/view2": {
+      "viewPath": "View2"
     }
   },
   "sharedDocks": {
