@@ -1,5 +1,6 @@
 def test():
-	print("data")
-	print("tesfdzhgdzht")
-
+	print("abraCaDabra")
+	print("data12545")
+	print("testabcd")
+	print("BabaJiKiBooti")
 
