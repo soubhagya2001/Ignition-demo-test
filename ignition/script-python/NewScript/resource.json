@@ -8,10 +8,10 @@
   ],
   "attributes": {
     "lastModification": {
-      "actor": "admin",
-      "timestamp": "2026-06-05T10:19:57Z"
+      "actor": "external",
+      "timestamp": "2026-06-05T10:20:43Z"
     },
     "hintScope": 2,
-    "lastModificationSignature": "d32ae20da54e628d5297d29d64107eae4642e4e771e00bf90aaf3e7ceb3cb166"
+    "lastModificationSignature": "48ddf0479d50934316796703be1a99d97b446f4d2ff819a1adea49eb8ac92478"
   }
 }
