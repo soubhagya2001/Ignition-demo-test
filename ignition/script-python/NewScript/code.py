@@ -1,5 +1,5 @@
 def test():
 	print("data12545")
-	print("testabcd")
+	print("testab1cd")
 	print("BabaJiKiBooti")
 
